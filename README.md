@@ -1,5 +1,5 @@
 ## Seja bem vindo!! 💜
-Meu nome é:`Yasmim Moreira`
+Meu nome é: `Yasmim Moreira`
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
@@ -10,4 +10,4 @@ Meu nome é:`Yasmim Moreira`
 ## Você pode entrar em contato comigo
 alurastartestudante@email.com 📫
 
-![](content://com.android.chrome.FileProvider/images/screenshot/17236895226605886571831250040364.gif)
+(content://com.android.chrome.FileProvider/images/screenshot/17236895226605886571831250040364.gif)
