@@ -10,4 +10,3 @@ Meu nome é: `Yasmim Moreira`
 ## Você pode entrar em contato comigo
 alurastartestudante@email.com 📫
 
-![](https://tenor.com/pt-BR/view/emy-d%C3%A9part-gif-18075952005016085494)
