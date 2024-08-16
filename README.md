@@ -10,6 +10,8 @@ Meu nome é: `Yasmim Moreira`
 ## Você pode entrar em contato comigo
 alurastartestudante@email.com 📫
 
+
+
 ![]()[Uploading image.png…]()
 
 
