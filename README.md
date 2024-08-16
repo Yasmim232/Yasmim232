@@ -9,7 +9,10 @@ Meu nome é: `Yasmim Moreira`
 
 ## Você pode entrar em contato comigo
 alurastartestudante@email.com 📫
+
+
 ![](https://tenor.com/bEb72.gif)
+
 
 
 
