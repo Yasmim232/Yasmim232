@@ -11,7 +11,7 @@ Meu nome é: `Yasmim Moreira`
 alurastartestudante@email.com 📫
 
 
-https://tenor.com/bEb72.gif
+![](https://tenor.com/bEb72.gif)
 
 
 
