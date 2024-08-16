@@ -11,7 +11,7 @@ Meu nome é: `Yasmim Moreira`
 alurastartestudante@email.com 📫
 
 
+![]([Uploadingimage.png...])
 
-![]([Uploading image.png…]())
 
 
